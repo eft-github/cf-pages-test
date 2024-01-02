@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js && node postbuild.js"
+    "build": "webpack --config webpack.config.js"
   },
   "keywords": [],
   "author": "",
